@@ -1,0 +1,12 @@
+
+
+POST http://localhost:4005/app/signup
+Content-Type: application/json
+
+{
+    "name":"ramki",
+    "email":"ramki@gmail.com",
+    "contact":"1234567890",
+    "age":"23",
+    "jobRole":"Developer"
+}
